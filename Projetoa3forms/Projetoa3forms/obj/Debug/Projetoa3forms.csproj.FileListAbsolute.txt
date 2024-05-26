@@ -1,0 +1,10 @@
+C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\bin\Debug\Projetoa3forms.exe.config
+C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\bin\Debug\Projetoa3forms.exe
+C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\bin\Debug\Projetoa3forms.pdb
+C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\obj\Debug\Projetoa3forms.csproj.AssemblyReference.cache
+C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\obj\Debug\Projetoa3forms.Properties.Resources.resources
+C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\obj\Debug\Projetoa3forms.csproj.GenerateResource.cache
+C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\obj\Debug\Projetoa3forms.csproj.CoreCompileInputs.cache
+C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\obj\Debug\Projetoa3forms.exe
+C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\obj\Debug\Projetoa3forms.pdb
+C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\obj\Debug\Projetoa3forms.Form1.resources
