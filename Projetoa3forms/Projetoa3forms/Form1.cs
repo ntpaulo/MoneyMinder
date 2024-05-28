@@ -91,9 +91,21 @@ namespace Projetoa3forms
             
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
-        
+            // Cria uma nova instância do formulário que você quer abrir
+            Form2 form2 = new Form2();
+
+            //Define a posição inicial do novo formulario
+            form2.StartPosition = FormStartPosition.Manual;
+
+            //Calcula a posição centralizada em relação ao form1
+            int x = this.Location.X + (this.Width - form2.Width) / 2;
+            int y = this.Location.Y + (this.Height - form2.Height) / 2;
+            form2.Location = new Point(x, y);
+
+            // Exibe o formulário como uma janela modal
+            form2.ShowDialog();
         }
     }
 }

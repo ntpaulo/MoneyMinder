@@ -8,3 +8,4 @@ C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\obj\Debug\moneyminder.csp
 C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\obj\Debug\moneyminder.csproj.CoreCompileInputs.cache
 C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\obj\Debug\Projetoa3forms.exe
 C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\obj\Debug\Projetoa3forms.pdb
+C:\Users\NT\source\repos\Projetoa3forms\Projetoa3forms\obj\Debug\Projetoa3forms.Form2.resources
